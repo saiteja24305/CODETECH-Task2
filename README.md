@@ -11,6 +11,7 @@
 
 
 #### PROJECT :  ****Create a simple vulnerability scanning tool that scans a network or website for common security vulnerabilities such as open ports, outdated software versions, and misconfigurations****
+![image](https://github.com/user-attachments/assets/62b378c1-c05b-4958-9592-aa760e4bed47)
 
 
 #### OBJECTIVE
